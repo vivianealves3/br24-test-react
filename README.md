@@ -1,4 +1,4 @@
-##Br24 Test
+## Br24 Test
 Please read this documentation for information on scripts as well as screenshots regarding testing and responsiveness.
 
 This project was bootstrapped with Create React App.
@@ -11,7 +11,7 @@ Here's the api repository link:
 
 https://github.com/vivianealves3/Br24-Teste-api
 
-##Available Scripts
+## Available Scripts
 In the project directory, you can run:
 
 ### `yarn start`
